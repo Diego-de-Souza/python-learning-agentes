@@ -7,6 +7,6 @@ Ele tem desde o agente mais básico reativo sem memória até o agente mais avan
 
 
 
-# Learning about the creation of the inteligency agents with python using LLMs e SLMs
+# Learning about the creation of the intelligent agents with python using LLMs e SLMs
 This is one project of the learning about intelligent agents with python that communicate with LLMs and SLMs for interaction with a user.
 Its range from the agent very basic reactive memoryless the agent more avanced.
