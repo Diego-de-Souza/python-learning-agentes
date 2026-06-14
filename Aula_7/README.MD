@@ -155,3 +155,4 @@ Pode acrescentar os termos que quiser. Eu sugiro começar com 5 ou 6.
 ```
 Porquê este método? Porque a estrutura _executar_ferramenta precisa de chamar uma função para cada tipo de ferramenta. definir_termo é a função que trata do "dicionario".
 
+

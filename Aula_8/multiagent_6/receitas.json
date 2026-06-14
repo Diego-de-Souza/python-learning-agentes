@@ -1,0 +1,34 @@
+[
+    {
+        "nome": "Bolo de Chocolate",
+        "porcoes": 8,
+        "ingredientes": {
+        "farinha": "200g",
+        "açúcar": "150g",
+        "ovos": "3",
+        "chocolate em pó": "50g",
+        "manteiga": "100g"
+        },
+        "passos": [
+        "Misturar farinha, açúcar e chocolate.",
+        "Adicionar ovos e manteiga derretida.",
+        "Assar em forno pré-aquecido a 180°C por 30 minutos."
+        ]
+    },
+    {
+        "nome": "Salada Caesar",
+        "porcoes": 4,
+        "ingredientes": {
+        "alface romana": "1 pé",
+        "frango grelhado": "200g",
+        "queijo parmesão": "50g",
+        "croutons": "100g",
+        "molho caesar": "100ml"
+        },
+        "passos": [
+        "Lavar e cortar a alface.",
+        "Grelhar o frango e fatiar.",
+        "Misturar todos os ingredientes e servir com o molho."
+        ]
+    }
+]

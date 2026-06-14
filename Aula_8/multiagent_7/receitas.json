@@ -1,0 +1,50 @@
+[
+  {
+    "nome": "Bolo de Chocolate",
+    "porcoes": 8,
+    "ingredientes": {
+      "farinha": "200g",
+      "açúcar": "150g",
+      "ovos": "3",
+      "chocolate em pó": "50g",
+      "manteiga": "100g"
+    },
+    "passos": [
+      "Misturar farinha, açúcar e chocolate.",
+      "Adicionar ovos e manteiga derretida.",
+      "Assar em forno pré-aquecido a 180°C por 30 minutos."
+    ]
+  },
+  {
+    "nome": "Salada Caesar",
+    "porcoes": 4,
+    "ingredientes": {
+      "alface romana": "1 pé",
+      "frango grelhado": "200g",
+      "queijo parmesão": "50g",
+      "croutons": "100g",
+      "molho caesar": "100ml"
+    },
+    "passos": [
+      "Lavar e cortar a alface.",
+      "Grelhar o frango e fatiar.",
+      "Misturar todos os ingredientes e servir com o molho."
+    ]
+  },
+  {
+    "nome": "Panquecas Americanas",
+    "porcoes": 4,
+    "ingredientes": {
+      "farinha de trigo": "150g",
+      "açúcar": "60g",
+      "farinha de milho": "30g",
+      "leite": "240ml",
+      "manteiga": "80g",
+      "ovos": "2 unidades",
+      "fermento em pó": "1 colher de sopa"
+    },
+    "passos": [
+      "Em uma tigela, misture farinha de trigo, açúcar e farinha de milho. Adicione o fermento em pó e lembre-se de misturar bem. Em outra tigela, bata os ovos e adicione o leite. Misture a massa de forma ligeira até obter uma consistência homogénea. Derreta a manteiga no micro-ondas ou na frigideira. Adicione um pouco da mistura à frigideira, espalhe bem e acrescente mais manteiga para não grudar. Deixe cozinhar por aproximadamente 2 minutos até que as bordas estejam secas. Sirva quente."
+    ]
+  }
+]
